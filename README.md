@@ -34,4 +34,4 @@ Explore alguns dos projetos que desenvolvi para colocar meus conhecimentos em pr
 ### 📫 Como me encontrar
 
 - **LinkedIn:** [Rodrigo Santos Araujo](https://www.linkedin.com/in/rodrigo-santos-araujo-03864a34a/)
-- **Email:** `seu-email@exemplo.com`
+- **Email:** ``
