@@ -23,7 +23,15 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ---
 
+### 🚀 Meus Projetos
+
+Explore alguns dos projetos que desenvolvi para colocar meus conhecimentos em prática.
+
+- **[Coleção de Sites HTML/CSS](https://github.com/Rodrigoo2006/Sites-Html)**: Repositório com vários sites e páginas estáticas criados para praticar e demonstrar minhas habilidades em HTML5 e CSS3.
+
+---
+
 ### 📫 Como me encontrar
 
 - **LinkedIn:** [Rodrigo Santos Araujo](https://www.linkedin.com/in/rodrigo-santos-araujo-03864a34a/)
-- **Email:** ``
+- **Email:** `seu-email@exemplo.com`
