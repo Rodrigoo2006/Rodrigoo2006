@@ -25,5 +25,5 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** `[Seu Nome](link-para-seu-linkedin)`
+- **LinkedIn:** `(https://www.linkedin.com/in/rodrigo-santos-araujo-03864a34a/))`
 - **Email:** `seu-email@exemplo.com`
