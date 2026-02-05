@@ -13,7 +13,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 | **C** | Conhecimento Sólido |
 | **Python** | Básico |
 | **HTML5 & CSS3** | Intermediário |
-| **Microsoft Excel** | Intermediário |
+| **Microsoft Excel** | Conhecimento Sólido |
 | **Power BI** | Conhecimento Sólido |
 
 <br>
