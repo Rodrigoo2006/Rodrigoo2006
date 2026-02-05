@@ -14,7 +14,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 | **Python** | Básico |
 | **HTML5 & CSS3** | Intermediário |
 | **Microsoft Excel** | Intermediário |
-| **Power BI** | Em Estudo |
+| **Power BI** | Conhecimento Sólido |
 
 <br>
 
