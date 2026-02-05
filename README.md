@@ -4,15 +4,17 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor focado em aprender e 
 
 ---
 
-### 💻 Competências Técnicas
+### 💻 Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias com as quais tenho trabalhado:
+Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 
-| Linguagens de Programação | Nível |
+| Tecnologia / Ferramenta | Nível |
 | :--- | :--- |
 | **C** | Conhecimento Sólido |
 | **Python** | Básico |
 | **HTML5 & CSS3** | Intermediário |
+| **Microsoft Excel** | Intermediário |
+| **Power BI** | Em Estudo |
 
 <br>
 
@@ -20,6 +22,8 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 
 ---
 
@@ -34,4 +38,4 @@ Explore alguns dos projetos que desenvolvi para colocar meus conhecimentos em pr
 ### 📫 Como me encontrar
 
 - **LinkedIn:** [Rodrigo Santos Araujo](https://www.linkedin.com/in/rodrigo-santos-araujo-03864a34a/)
-- **Email:** ``
+- **Email:** contatorodrigo2006@gmail.com
